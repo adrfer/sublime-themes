@@ -14,7 +14,7 @@ Themes tested in `Sublime Text 3 (3083)` and inspired by [base16](https://github
 To install customized themes:
 
 1. Open **Sublime Text**, go to **Preferences**, and then **Browse Packages...**
-2. Download the custom theme, unzip it, and rename the its folder to **Theme - XXX**
+2. Download the custom theme, unzip it, and rename the its folder to **Theme - Pulsar**
 3. Copy the theme folder into to the **User** folder
 4. Open/restart **Sublime Text** and activate it
 
