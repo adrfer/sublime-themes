@@ -3,7 +3,9 @@
 # Sublime Text Themes
 Minimally ok-ish themes for Sublime Text.
 
-Themes tested in `Sublime Text 3 (3083)` and inspired by [base16](https://github.com/chriskempson/base16) and [spacegray](https://github.com/kkga/spacegray).
+Themes tested in `Sublime Text 3 (3083)`.
+
+Inspired by [base16](https://github.com/chriskempson/base16), [spacegray](https://github.com/kkga/spacegray), [material-theme](https://github.com/equinusocio/material-theme), and [soda-theme](https://github.com/buymeasoda/soda-theme).
 
 <!-- TODO: ![screenshot](https://raw.githubusercontent.com/adrfer/sublime-themes/Themes/Themes - Pulsar/master/Screenshot.png) -->
 
