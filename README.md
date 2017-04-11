@@ -57,7 +57,7 @@ To deactivate customized themes:
 }
 ```
 
---
+##
 Hey, looking for custom settings? Check out [sublime-settings](https://github.com/adrfer/sublime-settings).
 
 Interested in key bindings? Take a look at [sublime-keybindings](https://github.com/adrfer/sublime-keybindings).
